@@ -5,7 +5,7 @@ This Streamlit app allows users to download articles from GeeksForGeeks as PDFs 
 ## Live Demo
 
 You can download the article by visiting the following link:
-[Link](https://download-geeksforgeeks-articles-entkjhe8vobvd9ednaplk5.streamlit.app/)
+[Link](https://download-geeksforgeeks-articles.onrender.com/)
 
 ## About GeeksForGeeks
 
@@ -21,15 +21,17 @@ You can download the article by visiting the following link:
 ## Setup
 
 1. Clone the repository:
-    git clone https://github.com/yashchinchole/Download-GeeksforGeeks-Articles
+   git clone https://github.com/yashchinchole/Download-GeeksforGeeks-Articles
 2. Install dependencies:
-    pip install -r requirements.txt
+   pip install -r requirements.txt
 3. Run the app:
-    streamlit run app.py
+   streamlit run app.py
 4. Enter the URL of the GeeksForGeeks article in the input field and click "Download PDF".
 
 ## Screenshots
+
 ![Website](./assets/screenshot/Screenshot.png)
 
 ## Note
+
 The PDF will be downloaded to the default download location on your system.
