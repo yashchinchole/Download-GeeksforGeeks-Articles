@@ -1,5 +1,7 @@
 # GeeksforGeeks Article Downloader
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/Download-GeeksforGeeks-Articles)
+
 This Streamlit app allows users to download articles from GeeksForGeeks as PDFs by providing the article URL.
 
 ## Live Demo
